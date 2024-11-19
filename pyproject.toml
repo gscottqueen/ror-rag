@@ -9,6 +9,7 @@ dependencies = [
     "einops>=0.8.0",
     "jupyter>=1.1.1",
     "litellm>=1.52.5",
+    "matplotlib>=3.9.2",
     "pandas>=2.2.3",
     "pymupdf4llm>=0.0.17",
     "semantic-text-splitter>=0.18.1",
